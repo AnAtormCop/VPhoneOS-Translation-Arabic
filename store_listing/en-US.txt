@@ -1,0 +1,19 @@
+# App Store Listing Template
+
+## App Title
+[Your app title in this language]
+
+## Short Description (80 characters max)
+[Brief description of your app]
+
+## Full Description
+[Detailed description of your app features and benefits]
+
+## Keywords
+[Relevant keywords for app store optimization]
+
+## What's New
+[Latest update information]
+
+---
+*Replace the bracketed text with actual content in the target language.*
