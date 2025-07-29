@@ -1,3 +1,8 @@
+# DECLINED AND CAN'T DO
+
+This is hard to do. im tooo lazy so declined tk join..
+
+
 # VPhoneOS Translations
 
 This repository contains translations for VPhoneOS, a virtual phone application available on Google Play.
